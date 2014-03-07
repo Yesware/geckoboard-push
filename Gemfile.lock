@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    geckoboard-push (0.1.0)
+    geckoboard-push (0.1.1)
       httparty
 
 GEM
